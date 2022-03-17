@@ -13,7 +13,7 @@ Want to know more about my work? [Check my portfolio.](https://portfolio-40fatho
 <br>
 
 <a href="https://github.com/40fathoms">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=40fathoms&layout=compact)" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=40fathoms&layout=compact" />
 </a>
 
 <br>
