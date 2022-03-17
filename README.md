@@ -18,11 +18,10 @@ Want to know more about my work? [Check my portfolio.](https://portfolio-40fatho
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=grey)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=grey)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=grey)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=grey)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=grey)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=grey)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=grey)
