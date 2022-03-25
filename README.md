@@ -5,7 +5,7 @@ Want to know more about my work? [Check my portfolio.](https://portfolio-40fatho
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/40fathoms)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jo%C3%A3o-paulo-m-013b211a0/)
-[![Discord Badge](https://img.shields.io/badge/Discord-40%20fathoms%232505-informational?style=flat&logo=discord&logoColor=white&color=5865F2)]
+![Discord Badge](https://img.shields.io/badge/Discord-40%20fathoms%232505-informational?style=flat&logo=discord&logoColor=white&color=5865F2)
 
 ## &#x1f4c8; GitHub Stats
 
