@@ -2,7 +2,7 @@
   👋 Hello! My name is João Paulo. Licentiate degree in physics, master's in Molecular Sciences and a front-end developer.
 </p>
 <p align="center">
-  Want to know more about my work? [Check my portfolio.](https://portfolio-40fathoms.vercel.app/)
+  Want to know more about my work? <a href="https://portfolio-40fathoms.vercel.app/">Check my portfolio</a>.
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
