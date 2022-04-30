@@ -19,15 +19,15 @@
 
 <h2 align="center">💼 Skills</h2>
 <p align="center">
-	<img src="https://img.shields.io/badge/-GraphQL-000?style=flat-square&logo=graphql&logoColor=E10098" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-Styled_Components-000?style=flat-square&logo=styled-components" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-SASS-000?style=flat-square&logo=sass" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-CSS-000?style=flat-square&logo=css3&logoColor=1572B6" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5&logoColor=E34F26" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git" />&nbsp;&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/GraphQL-000.svg?&style=for-the-badge&logo=graphql&logoColor=E10098" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/TypeScript-000.svg?&style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-Styled_Components-000?style=for-the-badge&logo=styled-components" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />&nbsp;&nbsp;&nbsp;
 </p>
