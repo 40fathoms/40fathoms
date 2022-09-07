@@ -12,11 +12,6 @@
   <a href="#"><img src="https://img.shields.io/badge/40%20fathoms%20%232505-%23D14836.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">&#x1f4c8; GitHub Stats</h2>
-<p align="center">
-  <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=40fathoms&layout=compact" />
-</p>
-
 <h2 align="center">💼 Skills</h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/GraphQL-000.svg?&style=for-the-badge&logo=graphql&logoColor=E10098" />&nbsp;&nbsp;&nbsp;
