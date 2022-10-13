@@ -27,7 +27,9 @@
 	<img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Currently jamming to:</h2>
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ibp33a7gigu72c878lp2p74bk&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ibp33a7gigu72c878lp2p74bk&cover_image=true&theme=default&show_offline=true&bar_color_cover=true)]]
-
+<h2 align="center">🤏😎 Currently jamming to:</h2>
+<div align="center">
+	
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ibp33a7gigu72c878lp2p74bk&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+	
+</div>
