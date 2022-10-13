@@ -28,5 +28,5 @@
 </p>
 
 <h2 align="center">Currently jamming to:</h2>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ibp33a7gigu72c878lp2p74bk&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=40fathoms&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
