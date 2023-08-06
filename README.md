@@ -14,10 +14,10 @@
 
 <h2 align="center">💼 Skills</h2>
 <p align="center">
-	<img src="https://img.shields.io/badge/GraphQL-000.svg?&style=for-the-badge&logo=graphql&logoColor=E10098" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/TypeScript-000.svg?&style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/GraphQL-000.svg?&style=for-the-badge&logo=graphql&logoColor=E10098" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-React%20Testing%20Library-000?style=for-the-badge&logo=testing-library&logoColor=red" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=C63D14" />&nbsp;&nbsp;&nbsp;
