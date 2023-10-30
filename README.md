@@ -21,6 +21,7 @@
 	<img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-React%20Testing%20Library-000?style=for-the-badge&logo=testing-library&logoColor=red" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=C63D14" />&nbsp;&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Tailwind-000.svg?&style=for-the-badge&logo=tailwindcss" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-Styled_Components-000?style=for-the-badge&logo=styled-components" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass" />&nbsp;&nbsp;&nbsp;
