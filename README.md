@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hello! My name is João Paulo. Licentiate degree in physics, master's in Molecular Sciences and a front-end developer. I'm a goal-oriented, team player worker. What motivates me the most is creating a solid product, focusing on excellent user experience. I enjoy working with React, Next.js, TypeScript and GraphQL.
+  👋 Hello! My name is João Paulo. Undergraduate degree in physics, master's in Molecular Sciences and a front-end developer. I'm a goal-oriented, team player worker. What motivates me the most is creating a solid product, focusing on excellent user experience. I enjoy working with React, Next.js, TypeScript and GraphQL.
 </p>
 <p align="center">
   Want to know more about my work? <a href="https://portfolio-40fathoms.vercel.app/">Check my portfolio</a>.
