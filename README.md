@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hello! My name is João Paulo. Licentiate degree in Physics, Master of Science in Physical Chemistry and a Front-end developer. Currently attending to a MBA in Software Engineering. Professional with 2 years of experience in Front End Development, creating user-friendly applications and possessing a strong background in React, Next.js, and TypeScript. Proven track record in developing robust ERPs, checkout flows and enhancing user experiences, with ease in integrating into the collaborative team environment, focused on optimizing user experience, speed and operational efficiency.
+  👋 Hello! My name is João Paulo. Licentiate degree in Physics, Master of Science in Physical Chemistry and a Front-end developer. Currently attending to a MBA in Software Engineering. Professional with 3 years of experience in Front End Development, creating user-friendly applications and possessing a strong background in React, Next.js, and TypeScript.
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
